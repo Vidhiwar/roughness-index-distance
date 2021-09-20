@@ -22,7 +22,7 @@ DIRECTORY-TREE: {[
     Roughness_metrics.py: "Python: (Main File) Evaluates Roughness Index, Roughness ratio and Roughness distance"]}
     
                                        
-HOW-TO-USE: {Installation-Train-Val:[
+HOW-TO-USE: {[
 
       Uno: "Make sure the required libraries (Torch, Nibabel, Tqdm, ... etc.,. are installed",
       Dos: "Navigate to ./roughness-index/",
