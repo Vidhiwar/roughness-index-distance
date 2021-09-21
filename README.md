@@ -2,10 +2,12 @@
 
 RESEARCH-PAPER:  {Title: "Roughness Index and Roughness Distance for Benchmarking Medical Segmentation",
 
-      Link:  "https://arxiv.org/pdf/2103.12350",                                
-              Authors: ["Vidhiwar Singh Rathour",
-                                    "Kashu Yamakazi",
-                                                "Ngan Le"]}  
+    CITE:  "https://arxiv.org/pdf/2103.12350", 
+    YEAR: 2021
+    PUBLICATION: "arXiv e-prints"
+    AUTHORS: ["Vidhiwar Singh Rathour",
+                      "Kashu Yamakazi",
+                            "Ngan Le"]}  
 
                                                           
                                                                                     
