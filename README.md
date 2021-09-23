@@ -1,7 +1,8 @@
 # roughness-index
 
-RESEARCH-PAPER:  {Title: "Roughness Index and Roughness Distance for Benchmarking Medical Segmentation",
-
+RESEARCH-PAPER:  {
+    
+    TITLE: "Roughness Index and Roughness Distance for Benchmarking Medical Segmentation",
     CITE:  "https://arxiv.org/pdf/2103.12350", 
     YEAR: 2021,
     PUBLICATION: "arXiv e-prints",
@@ -16,7 +17,7 @@ DIRECTORY-TREE: {
 
     output: "Directory: Results are written",
 
-    lib: {"Directory: Contains Functions"{
+    lib: {"Directory: Contains Functions": {
             functions.py: "Python: Pytorch implementation of Roughness Index, Roughness ratio and Roughness distance"}},
 
     data: "Directory: contains the data",
