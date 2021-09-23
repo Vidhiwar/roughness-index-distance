@@ -5,7 +5,7 @@ RESEARCH-PAPER:  {
     TITLE: "Roughness Index and Roughness Distance for Benchmarking Medical Segmentation",
     CITE:  "https://arxiv.org/pdf/2103.12350", 
     YEAR: 2021,
-    PUBLICATION: "arXiv e-prints",
+    CONFERENCE: "BIOIMAGING",
     AUTHORS: ["Vidhiwar Singh Rathour",
                       "Kashu Yamakazi",
                             "Ngan Le"]}  
